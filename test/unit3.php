@@ -1,2 +1,2 @@
 <?php
-echo false;
+echo "false";

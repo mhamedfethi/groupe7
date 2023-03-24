@@ -1,2 +1,2 @@
 <?php
-echo true;
+echo "true";
